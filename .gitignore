@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Screenshots and videos
+videos
+screenshots
+
+# Dependency directories
+node_modules
